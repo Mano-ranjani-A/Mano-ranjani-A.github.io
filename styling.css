@@ -111,3 +111,8 @@ body{
 .soc-icons a:hover img{
     transform: translateY(-10px);
 }
+
+#heading {
+    font-size:36px;
+    margin-left: 20px;
+}
