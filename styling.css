@@ -112,7 +112,7 @@ body{
     transform: translateY(-10px);
 }
 
-#heading {
+.heading {
     font-size:36px;
     margin-left: 20px;
 }
