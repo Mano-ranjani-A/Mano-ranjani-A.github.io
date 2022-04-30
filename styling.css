@@ -112,7 +112,13 @@ body{
     transform: translateY(-10px);
 }
 
-.heading {
+#heading {
     font-size:20px;
     margin-left: 20%;
 }
+
+.projectson {
+    font-size:20px;
+    margin-left: 20%;
+}
+    
